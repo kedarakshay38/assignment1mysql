@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+Snum,int,YES,,NULL,
+Sname,varchar(10),YES,,NULL,
+City,varchar(10),YES,,NULL,
+Comm,"float(3,2)",YES,,NULL,

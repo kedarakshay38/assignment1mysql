@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+Cnum,int,YES,,NULL,
+Cname,varchar(10),YES,,NULL,
+City,varchar(10),YES,,NULL,
+Rating,int,YES,,NULL,
+Snum,int,YES,,NULL,

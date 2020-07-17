@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+Onum,int,YES,,NULL,
+Amt,"float(7,2)",YES,,NULL,
+Odate,date,YES,,NULL,
+Cnum,int,YES,,NULL,
+Snum,int,YES,,NULL,
