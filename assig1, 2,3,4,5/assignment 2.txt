@@ -1,0 +1,19 @@
+										Assignment –2
+
+
+#Introducing Relational Databases.
+
+1) Which field of the Customers table is the primary key?
+->"cnum" of customers table is Primery key.
+
+2) What is the 4th column of the Customers table?
+->"Rating" is the fourth column.
+
+3) What is another word for row? For column?
+->for "row"->"record,tuple,entity,oportunity";
+  for "column"->"Attribute,Method";.
+
+4) Why isn’t it possible to see the first five rows of a tab?
+->Because in hard disk rows are not stored in sequential manner every row is file and its having its 
+own adress and because of different different memory location every raw has different adress secquence so
+we dont know which row is first and which row is last one.
