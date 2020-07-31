@@ -28,6 +28,6 @@ possible rating values in the range of 100 to 500.
 customers whose rating is the lowest.
 
 ->create or replace view restrict_cust as
-	select * from  customers where rating NOT IN (select min(rating) from customers);
+select * from  customers where rating NOT IN (select min(rating) from customers);
 	grant select  on restrictmin to Vikaram;
 
